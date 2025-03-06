@@ -3,5 +3,7 @@ public class Main {
         System.out.println("eloeleo");
         System.out.println("eloeleoqweqweqwe");
         System.out.println("eloe");
+        System.out.println("eloe");
+        System.out.println("eloe");
     }
 }
